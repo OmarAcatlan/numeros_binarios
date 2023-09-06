@@ -33,6 +33,7 @@ Antiguamente existía la **profesión de computadora**, la cual eran personas qu
 <img src="../_src/assets/00-IntroToCS/eniac.jpg"  height="250">
 <h5>Alonzo Chruch, Alan Turing y la maquina ENIAC respectivamente.</h5>
 
+
 **John von Neumann** se dio cuenta de que en el hardware no solo se podía almacenar el poder de cómputo, también los programas para ejecutar. A esta arquitectura se le llama la **arquitectura de von Neumman.** De esta arquitectura nace la máquina **EDVAC** (Electronic Discrete Automatic Computer).
 
 <img src="../_src/assets/00-IntroToCS/neumann-edvac.jpeg"  height="250">
@@ -242,4 +243,4 @@ Ahora leemos de abajo hacia arriba los restos, al concatenarlos, obtendremos nue
 Recordemos que las computadoras, sólo entienden ceros (0) y unos (1). Ahora bien, ¿Nosotros escribimos en 1's y 0's? No.
 Existen lenguajes de alto y bajo nivel que luego deben ser traducidos a lenguaje maquina, lenguaje interpretable por la computadora. La "traducción" la llamaremos compilación.
 
-![Compilar](../_src/assets/00-IntroToCS/compilation.png)# numeros_binarios
+![Compilar](../_src/assets/00-IntroToCS/compilation.png)
